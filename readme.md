@@ -95,7 +95,7 @@ _Configuracion de Usuario_
 
 ```git
 git config --global user.name "brian"
-git config --global user.email rian3marquez@example.com
+git config --global user.email brian3marquez@example.com
 ```
 
 <table>
